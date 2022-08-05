@@ -1,3 +1,3 @@
 # sample-actions
 
-edit by **actflower**
+edit by *actflower*
